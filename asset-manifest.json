@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netflix_bkts/static/css/main.8b516ee7.css",
+    "main.js": "/netflix_bkts/static/js/main.8937d9ef.js",
+    "static/media/bg1.jpg": "/netflix_bkts/static/media/bg1.9189595fb2ca2052b045.jpg",
+    "index.html": "/netflix_bkts/index.html",
+    "main.8b516ee7.css.map": "/netflix_bkts/static/css/main.8b516ee7.css.map",
+    "main.8937d9ef.js.map": "/netflix_bkts/static/js/main.8937d9ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b516ee7.css",
+    "static/js/main.8937d9ef.js"
+  ]
+}
